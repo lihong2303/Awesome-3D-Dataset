@@ -13,6 +13,7 @@
 | CVPR 2024 | [LASO: Language-guided Affordance Segmentation on 3D Object](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf) | 3D-AffordanceNet | 19,751 point-question pairs, covering 8434 object shapes and 870 expert-crafted questions; | Point Cloud, Text | Language-guided Affordance Segmentation on 3D Object |
 | NeurlPS 2022 Dataset and Benchmark | [MBW: Multi-view Bootstrapping in the Wild](https://arxiv.org/pdf/2210.01721) | Raw Dataset | Multi-veiw (2~4 cameras) tigers, fish, colobus monkeys, gorillas, chimpanzees, and flamingos from a zoo dataset,each with 2 synchronized videos | Multi-view, 2D landmark of articulated objects | Labeling articulated objects |
 | CVPR 2023 | [OMNI3D: A Large Benchmark and Model for 3D Object Detection in the Wild](https://arxiv.org/pdf/2207.10660) | New annotation (SUN RBG-D, ARKitScenes, Hypersim, Objectron, KITTI and nuScenes) | 234k images annotated with more than 3 million instances and 98 3D boxes categories | single-image, 3D cuboids | 3D object detections |
+| CVPR 2022 | [Self-supervised Neural Articulated Shape and Appearance Models](https://arxiv.org/pdf/2205.08525) | No dataset contribution | - | image, 3D shape | few-shot reconstruction, the generation of novel articulations, and novel view-synthesis |
 
 
 ### Scene
@@ -33,6 +34,13 @@
 | ArXiv 2212 | [GeoCode: Interpretable Shape Programs](https://arxiv.org/pdf/2212.11715) | - | train: 9,570 chairs, 9,330 vases, and 6,270 tables; validation and test: 957 chairs, 933 vases, and 627 tables | Mesh, Point-Cloud, sketch | 3D geometry edit |
 | NeurlPS 2022 Datasets and Benchmarks | [Breaking Bad: A Dataset for Geometric Fracture and Reassembly](https://breaking-bad-dataset.github.io) | Thingi10K, PartNet | 10,474 shapes, 1,047,400 breakdown patterns | Point cloud | geometry measurements; shape assembly |
 | | []() | | | | |
+
+#### Manipulation
+| time | paper | Sources| Data Scale| Modality | Task |
+|----------|----------|----------|----------|----------|----------|
+| CoRL 2022 | [Leveraging Language for Accelerated Learning of Tool Manipulation](https://arxiv.org/pdf/2206.13074) | - | 36 objects | images | tool utilize |
+
+
 
 ### object-scene
 
