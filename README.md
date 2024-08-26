@@ -28,7 +28,7 @@
 
 
 ## Real-Synethetic
-
+- (CVPR 2024) **SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes** [[Paper]](https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf)
 - (ECCV 2022) **OPD: Single-view 3D Openable Part Detection** [Openable Part Detection],[[Paper]](https://arxiv.org/pdf/2203.16421)
 
 
