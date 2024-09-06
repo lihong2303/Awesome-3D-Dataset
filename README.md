@@ -16,7 +16,9 @@
 | CVPR 2022 | [Self-supervised Neural Articulated Shape and Appearance Models](https://arxiv.org/pdf/2205.08525) | No dataset contribution | - | image, 3D shape | few-shot reconstruction, the generation of novel articulations, and novel view-synthesis |
 
 #### Hands
-- (NeurlPS 2023) **A Dataset of Relighted 3D Interacting Hands** [two-hand interactive], [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/396beafa6feba781a7114780e6837253-Paper-Datasets_and_Benchmarks.pdf)
+| time | paper | Sources| Data Scale| Modality | Task | Model |
+|----------|----------|----------|----------|----------|----------|----------|
+| NeurlPS 2023 | [A Dataset of Relighted 3D Interacting Hands](https://proceedings.neurips.cc/paper_files/paper/2023/file/396beafa6feba781a7114780e6837253-Paper-Datasets_and_Benchmarks.pdf) | | | | |
 
 
 ### Scene
@@ -27,9 +29,11 @@
 | | []() | | | | |
 
 
-## Real-Synethetic
-- (CVPR 2024) **SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes** [[Paper]](https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf)
-- (ECCV 2022) **OPD: Single-view 3D Openable Part Detection** [Openable Part Detection],[[Paper]](https://arxiv.org/pdf/2203.16421)
+## Real + Synethetic
+| time | paper | Sources| Data Scale| Modality | Task | Model |
+|----------|----------|----------|----------|----------|----------|----------|
+| CVPR 2024 | [SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes](https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf) | | | | |
+| ECCV 2022 | [OPD: Single-view 3D Openable Part Detection](https://arxiv.org/pdf/2203.16421) | | | | |
 
 
 ## Synthetic
@@ -60,13 +64,7 @@
 
 
 
-## Generative
-
-### Multi-View2Mesh
-- (ICCV 2023) **NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction** [[Paper]](https://arxiv.org/pdf/2212.05231)
-
-### Scene
-- (2022.10) **CommonSim-1: Generating 3D Worlds** [[Project]](https://www.csm.ai/blog/commonsim-1-generating-3d-worlds), text-to-3D dynamic environment.
+## Generative Models or Tools
 
 ### Object
 - (CVPR 2024) **Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ling_Align_Your_Gaussians_Text-to-4D_with_Dynamic_3D_Gaussians_and_Composed_CVPR_2024_paper.pdf)
@@ -74,3 +72,18 @@
 - (NeurlPS 2024) **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization** [[Paper]](https://arxiv.org/pdf/2306.16928)
 - (2022.12) **Point·E: A System for Generating 3D Point Clouds from Complex Prompts** [[Paper]](https://arxiv.org/pdf/2212.08751) 
 - (ICLR 2024) **SyncDreamer: Generating Multiview-consistent Images from a Single-view Image** [[Paper]](https://arxiv.org/abs/2309.03453)
+
+#### Single-View 2 3D
+- (CVPR 2024) **Splatter Image: Ultra-Fast Single-View 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.13150)
+
+
+#### Multi-View 2 Mesh
+- (ICCV 2023) **NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction** [[Paper]](https://arxiv.org/pdf/2212.05231)
+
+
+
+### Scene
+- (2022.10) **CommonSim-1: Generating 3D Worlds** [[Project]](https://www.csm.ai/blog/commonsim-1-generating-3d-worlds), text-to-3D dynamic environment.
+
+#### PairedImg 2 3D
+- (CVPR 2024) **pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.12337)
