@@ -105,7 +105,7 @@ A repository for recent 3D datasets.
 - (NeurlPS 2023) **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization** [[Paper]](https://arxiv.org/pdf/2306.16928)
 - (2022.12) **Point·E: A System for Generating 3D Point Clouds from Complex Prompts** [[Paper]](https://arxiv.org/pdf/2212.08751) 
 - (ICLR 2024) **SyncDreamer: Generating Multiview-consistent Images from a Single-view Image** [[Paper]](https://arxiv.org/abs/2309.03453)
-
+- (CVPR 2023) **PC^2 Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction** [[Paper]](https://arxiv.org/abs/2302.10668)
 ### Object
 
 ### Text 2 3D
