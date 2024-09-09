@@ -56,6 +56,7 @@ A repository for recent 3D datasets.
 | time | paper | Sources| Data Scale| Modality | Task | Model |
 |----------|----------|----------|----------|----------|----------|----------|
 | CVPR 2024 | [LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset](https://arxiv.org/pdf/2312.12418) | ArKitScenes | 10,412 CAD aligned with 920 scenes across 17 categories scaned from ArKitScene| Point cloud, Multi-view | indoor instance-level scene reconstruction | Diffusion-based |
+| ICCV 2023 | [ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes](https://arxiv.org/abs/2308.11417) | Raw | 460 scenes, 280000 DSLR images, 3.7M iPhone RGBD | Point cloud, Mesh, RGBD | novel view synthesis and 3D semantic scene understanding | NeRF |
 
 
 ## Synthetic
@@ -122,5 +123,4 @@ A repository for recent 3D datasets.
 
 
 ### Scene
-
 
