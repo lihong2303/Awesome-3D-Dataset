@@ -57,9 +57,10 @@ A repository for recent 3D datasets.
 | time | paper | Sources| Data Scale| Modality | Task |
 |----------|----------|----------|----------|----------|----------|
 | CVPR 2024 | [LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset](https://arxiv.org/pdf/2312.12418) | ArKitScenes | 10,412 CAD aligned with 920 scenes across 17 categories scaned from ArKitScene| Point cloud, Multi-view | indoor instance-level scene reconstruction |
+| CVPR 2024 | [DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision](https://openaccess.thecvf.com/content/CVPR2024/html/Ling_DL3DV-10K_A_Large-Scale_Scene_Dataset_for_Deep_Learning-based_3D_Vision_CVPR_2024_paper.html) | Raw | 10K videos, 51M frames,  with POI annotation | Multi-view RGB | novel view synthesis |
 | ICLR 2023 | [SQA3D: Situated Question Answering in 3D Scenes](https://arxiv.org/pdf/2210.07474) | ScanNet (***New Situation Question Answer***)| 6.8K Situation <=> 20.4K description <=> 33.4K Reasoning Answer| 3D scan, egocentric video, bird-eye view <=> situation <=> question |3D Situation Question Answer|
-| CVPR 2022 | [ScanQA: 3D Question Answering for Spatial Scene Understanding](https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf) | ScanNet (***New Question-Answer Pairs***) | 41 K question-answer pairs (800 indoors scenes) | RGB-D | 3D Question-Answer (spatial understanding) |
 | ICCV 2023 | [ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes](https://arxiv.org/abs/2308.11417) | Raw | 460 scenes, 280000 DSLR images, 3.7M iPhone RGBD | Point cloud, Mesh, RGBD | novel view synthesis and 3D semantic scene understanding |
+| CVPR 2022 | [ScanQA: 3D Question Answering for Spatial Scene Understanding](https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf) | ScanNet (***New Question-Answer Pairs***) | 41 K question-answer pairs (800 indoors scenes) | RGB-D | 3D Question-Answer (spatial understanding) |
 
 
 ## Synthetic
