@@ -46,8 +46,7 @@ A repository for recent 3D datasets.
 | CVPR 2022 | [ABO: Dataset and Benchmarks for Real-World 3D Object Understanding](https://openaccess.thecvf.com/content/CVPR2022/papers/Collins_ABO_Dataset_and_Benchmarks_for_Real-World_3D_Object_Understanding_CVPR_2022_paper.pdf) | Raw | 7, 953 3D Mesh; 8,222  multi-view images) | Mesh, Multi-view; attribute | single-view 3D reconstruction, material estimation, and cross-domain multi-view object retrieval. |
 | NeurlPS 2022 Dataset and Benchmark | [MBW: Multi-view Bootstrapping in the Wild](https://arxiv.org/pdf/2210.01721) | Raw Dataset | Multi-view (2~4 cameras) tigers, fish, colobus monkeys, gorillas, chimpanzees, and flamingos from a zoo dataset, each with 2 synchronized videos | Multi-view, 2D landmark of articulated objects | Labeling articulated objects |
 | CVPR 2021 | [3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding](https://arxiv.org/abs/2103.16397) | PartNet | 23 K with 18 affordance classes | 3D point cloud with affordance annotations | Affordance Reasoning |
-| ICCV 2021 | [Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf) | Raw (Annotated on MS-COCO)| 1.5 M multi-view (19K objects) <=>(annotation)cameras and 3D point clouds  | Multi-view; Point-cloud |  new-view-
-synthesis and category-centric 3D reconstruction |
+| ICCV 2021 | [Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf) | Raw (Annotated on MS-COCO)| 1.5 M multi-view (19K objects) <=>(annotation)cameras and 3D point clouds  | Multi-view; Point-cloud |  new-view-synthesis and category-centric 3D reconstruction |
 #### Hands
 | time | paper | Sources| Data Scale| Modality | Task | Model |
 |----------|----------|----------|----------|----------|----------|----------|
@@ -95,7 +94,7 @@ synthesis and category-centric 3D reconstruction |
 |----------|----------|----------|----------|----------|----------|
 | NeurlPS 2022 | [PeRFception: Perception using Radiance Fields](https://openreview.net/pdf?id=MzaPEKHv-0J) | CO3D, ScanNet | Co3D(18669 annotated videos with a total 1.5 million of camera-annotated frames), ScanNet(1.5 K indoor scenes with commercial RGB-D sensors) | Multi-view, reconstructed Point-cloud | 2D image classification, 3D object classification, 3D semantic segmentation |
 
-## Real and Synethetic
+## Real and Synthetic
 
 ### Object
 | time | paper | Sources| Data Scale| Modality | Task |
