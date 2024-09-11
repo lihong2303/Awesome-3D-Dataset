@@ -99,9 +99,10 @@ A repository for recent 3D datasets.
 |----------|----------|----------|----------|----------|----------|
 | 2023.8 | [HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions](https://arxiv.org/pdf/2308.01477v1) | videos | 308k annotated image frames from 2.2k videos of 212 real-world objects in 17 categories 3D reconstruction | reconstructed mesh | pose estimation and affordance prediction |
 ### Scene
-| time | paper | Sources| Data Scale| Modality | Task | Model |
-|----------|----------|----------|----------|----------|----------|----------|
+| time | paper | Sources| Data Scale| Modality | Task |
+|----------|----------|----------|----------|----------|----------|
 | CVPR 2024 | [SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes](https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf) | | | | |
+| 2024.1 | [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/pdf/2401.09340) | ScanNet , ARKitScenes, HM3D, 3RScan, MultiScan,  Structured3D, ProcTHOR | 68K scenes and 2.5M scene-language pairs | Point cloud, scan | 3D QA |
 | ECCV 2022 | [OPD: Single-view 3D Openable Part Detection](https://arxiv.org/pdf/2203.16421) | | | | |
 
 
