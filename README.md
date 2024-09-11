@@ -44,7 +44,7 @@ A repository for recent 3D datasets.
 | CVPR 2023 | [OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_OmniObject3D_Large-Vocabulary_3D_Object_Dataset_for_Realistic_Perception_Reconstruction_and_CVPR_2023_paper.pdf) | Raw | 6,000 scanned objects (190 daily categories) |  Mesh, Point-cloud, multi-view, videos | 3D perception, novel-view synthesis, neural surface reconstruction, 3D object generation | 
 | CVPR 2022 | [Self-supervised Neural Articulated Shape and Appearance Models](https://arxiv.org/pdf/2205.08525) | No dataset contribution | - | image, 3D shape | few-shot reconstruction, the generation of novel articulations, and novel view-synthesis |
 | NeurlPS 2022 Dataset and Benchmark | [MBW: Multi-view Bootstrapping in the Wild](https://arxiv.org/pdf/2210.01721) | Raw Dataset | Multi-veiw (2~4 cameras) tigers, fish, colobus monkeys, gorillas, chimpanzees, and flamingos from a zoo dataset,each with 2 synchronized videos | Multi-view, 2D landmark of articulated objects | Labeling articulated objects |
-| CVPR 2021 | [3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding](https://arxiv.org/abs/2103.16397) | Raw Dataset | 23 K | 3D point cloud with affordance annotations | Affordance Reasoning
+| CVPR 2021 | [3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding](https://arxiv.org/abs/2103.16397) | Raw Dataset | 23 K with 18 affordance classes | 3D point cloud with affordance annotations | Affordance Reasoning
 #### Hands
 | time | paper | Sources| Data Scale| Modality | Task | Model |
 |----------|----------|----------|----------|----------|----------|----------|
