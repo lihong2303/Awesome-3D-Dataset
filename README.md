@@ -57,7 +57,7 @@ A repository for recent 3D datasets.
 | time      | paper                                                        | Sources | Data Scale  | Modality              | Task               |
 | --------- | ------------------------------------------------------------ | ------- | ----------- | --------------------- | ------------------ |
 | WACV 2024 | [IKEA Ego 3D Dataset               Understanding furniture assembly actions from ego-view 3D Point Clouds](https://openaccess.thecvf.com/content/WACV2024/html/Ben-Shabat_IKEA_Ego_3D_Dataset_Understanding_Furniture_Assembly_Actions_From_Ego-View_WACV_2024_paper.html) | Raw     | 493k frames | Point cloud, ego RGBD | action recognition |
-| T-Ro 2024 | [Towards robust robot 3d perception in urban environments: The ut campus object dataset](https://arxiv.org/abs/2309.13549) | Raw | 58min (1.3M 3D bounding box); 53 categories | Point-cloud, RGB-D, 9 DoF inertial measurements.  |  |
+| T-Ro 2024 | [Towards robust robot 3d perception in urban environments: The ut campus object dataset](https://arxiv.org/abs/2309.13549) | Raw | 58min (1.3M 3D bounding box); 53 categories | Point-cloud, RGB-D, 9 DoF inertial measurements.  | 3D object detection |
 
 ### Scene
 
