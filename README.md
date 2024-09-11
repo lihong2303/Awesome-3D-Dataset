@@ -50,7 +50,11 @@ A repository for recent 3D datasets.
 |----------|----------|----------|----------|----------|----------|----------|
 | NeurlPS 2023 | [A Dataset of Relighted 3D Interacting Hands](https://proceedings.neurips.cc/paper_files/paper/2023/file/396beafa6feba781a7114780e6837253-Paper-Datasets_and_Benchmarks.pdf) | | | | |
 
+#### Ego
 
+| time      | paper                                                        | Sources | Data Scale  | Modality              | Task               |
+| --------- | ------------------------------------------------------------ | ------- | ----------- | --------------------- | ------------------ |
+| WACV 2024 | [IKEA Ego 3D Dataset               Understanding furniture assembly actions from ego-view 3D Point Clouds](https://openaccess.thecvf.com/content/WACV2024/html/Ben-Shabat_IKEA_Ego_3D_Dataset_Understanding_Furniture_Assembly_Actions_From_Ego-View_WACV_2024_paper.html) | Raw     | 493k frames | Point cloud, ego RGBD | action recognition |
 
 ### Scene
 
