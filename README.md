@@ -141,9 +141,10 @@ A repository for recent 3D datasets.
 - (2022.10) **CommonSim-1: Generating 3D Worlds** [[Project]](https://www.csm.ai/blog/commonsim-1-generating-3d-worlds), text-to-3D dynamic environment.
 
 ### Single-View 2 3D
+- (2024.9) **MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis** [[Paper]](https://arxiv.org/pdf/2409.07129), leveraging the power of MLLM.
 - (CVPR 2024) **Splatter Image: Ultra-Fast Single-View 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.13150)
 - (ACMM 2024) **Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models** [[Paper]](https://arxiv.org/pdf/2409.07452)
-- (RSS 2024 Workshop) Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks
+- (RSS 2024 Workshop) **Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks** [[Paper]](https://arxiv.org/pdf/2409.07245)
 
 ### PairedImg 2 3D
 - (CVPR 2024) **pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.12337)
