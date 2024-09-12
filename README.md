@@ -137,10 +137,12 @@ A repository for recent 3D datasets.
 ### Object
 
 ### Text 2 3D
+- (ECCV 2024) **DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation** [[Paper]](https://arxiv.org/pdf/2409.07454) [[Project]](https://dreammesh.github.io/), coarse-to-fine scheme
 - (2022.10) **CommonSim-1: Generating 3D Worlds** [[Project]](https://www.csm.ai/blog/commonsim-1-generating-3d-worlds), text-to-3D dynamic environment.
 
 ### Single-View 2 3D
 - (CVPR 2024) **Splatter Image: Ultra-Fast Single-View 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.13150)
+- (ACMM 2024) **Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models** [[Paper]](https://arxiv.org/pdf/2409.07452)
 
 ### PairedImg 2 3D
 - (CVPR 2024) **pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.12337)
@@ -159,5 +161,4 @@ A repository for recent 3D datasets.
 
 #### RGB 2 Depth
 - (ICCV 2021) **Vision Transformers for Dense Prediction** [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf)
-
 
