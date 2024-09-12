@@ -159,6 +159,8 @@ A repository for recent 3D datasets.
 
 ### Scene
 
+- (2024.9) **GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction** [[Paper]](https://arxiv.org/pdf/2409.06685) [[Project]](https://open3dvlab.github.io/GigaGS/)
+
 ### Images
 
 #### RGB 2 Depth
