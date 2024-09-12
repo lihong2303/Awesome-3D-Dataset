@@ -148,7 +148,11 @@ A repository for recent 3D datasets.
 ### Multi-View 2 3D
 - (ICCV 2023) **NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction** [[Paper]](https://arxiv.org/pdf/2212.05231)
 
-
+### 3D part segmentation
+- (CVPR 2023) **Self-positioning Point-based Transformer for Point Cloud Understanding** [[Paper]](https://arxiv.org/abs/2303.16450)
+- (CVPR 2017) **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation** [[Paper]](https://arxiv.org/abs/1612.00593)
+- (Proc. SGP 2023) **Cross-Shape Attention for Part Segmentation of 3D Point Clouds** [[Paper]](https://arxiv.org/abs/2003.09053)
+- 
 
 ### Scene
 
