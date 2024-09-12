@@ -151,7 +151,7 @@ A repository for recent 3D datasets.
 ### 3D part segmentation
 - (CVPR 2023) **Self-positioning Point-based Transformer for Point Cloud Understanding** [[Paper]](https://arxiv.org/abs/2303.16450)
 - (CVPR 2017) **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation** [[Paper]](https://arxiv.org/abs/1612.00593)
-- (Proc. SGP 2023) **Cross-Shape Attention for Part Segmentation of 3D Point Clouds** [[Paper]](https://arxiv.org/abs/2003.09053)
+- (Proc. SGP 2023) **Cross-Shape Attention for Part Segmentation of 3D Point Clouds** [[Paper]](https://arxiv.org/abs/2003.09053) [[Code]](https://github.com/marios2019/CSN)
 
 ### Scene
 
