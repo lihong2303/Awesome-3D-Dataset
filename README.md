@@ -18,6 +18,7 @@ A repository for recent 3D datasets.
 - [Real and Synthetic](#real-and-synethetic)
     - [Object](#object-2)
     - [Scene](#scene-2)
+- [Statistics](#statistics)
 - [Generative models or tools](#generative-models-or-tools)
     - [Object](#object-3)
         - [Text-2-3D](#text-2-3d)
@@ -109,6 +110,13 @@ A repository for recent 3D datasets.
 | 2024.1 | [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/pdf/2401.09340) | ScanNet , ARKitScenes, HM3D, 3RScan, MultiScan,  Structured3D, ProcTHOR | 68K scenes and 2.5M scene-language pairs | Point cloud, scan | 3D QA |
 | ECCV 2022 | [OPD: Single-view 3D Openable Part Detection](https://arxiv.org/pdf/2203.16421) | | | | |
 
+## Statistics
+| Type \ Modality | Mesh | Point-Cloud | Multi-view | Scene-Graph |
+|----------|----------|----------|----------|----------|
+| Real-Object |
+| Real-Scene |
+| Synthetic-Object |
+| Synthetic-Scene |
 
 ***
 
