@@ -47,6 +47,7 @@ A repository for recent 3D datasets.
 | NeurlPS 2022 Dataset and Benchmark | [MBW: Multi-view Bootstrapping in the Wild](https://arxiv.org/pdf/2210.01721) | Raw Dataset | Multi-view (2~4 cameras) tigers, fish, colobus monkeys, gorillas, chimpanzees, and flamingos from a zoo dataset, each with 2 synchronized videos | Multi-view, 2D landmark of articulated objects | Labeling articulated objects |
 | CVPR 2021 | [3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding](https://arxiv.org/abs/2103.16397) | PartNet | 23 K with 18 affordance classes | 3D point cloud with affordance annotations | Affordance Reasoning |
 | ICCV 2021 | [Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Reizenstein_Common_Objects_in_3D_Large-Scale_Learning_and_Evaluation_of_Real-Life_ICCV_2021_paper.pdf) | Raw (Annotated on MS-COCO)| 1.5 M multi-view (19K objects) <=>(annotation)cameras and 3D point clouds  | Multi-view; Point-cloud |  new-view-synthesis and category-centric 3D reconstruction |
+| ECCV 2016 | [ObjectNet3D: A Large Scale Database for 3D Object Recognition](https://cvgl.stanford.edu/papers/xiang_eccv16.pdf) | Raw | 100 categories, 90,127 images, 201,888 objects, 44,147 3D shapes | Images, 3D shape (not mesh or pc) | 3D pose / 3D shape recognition |
 #### Hands
 | time | paper | Sources| Data Scale| Modality | Task |
 |----------|----------|----------|----------|----------|----------|
