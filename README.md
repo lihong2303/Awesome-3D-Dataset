@@ -69,7 +69,7 @@ A repository for recent 3D datasets.
 
 | time | paper | Sources| Data Scale| Modality | Task |
 |----------|----------|----------|----------|----------|----------|
-| CVPR 2024 | [LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset](https://arxiv.org/pdf/2312.12418) | ArKitScenes | 10,412 CAD aligned with 920 scenes across 17 categories scaned from ArKitScene| Point cloud, Multi-view | indoor instance-level scene reconstruction |
+| CVPR 2024 | [LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset](https://arxiv.org/pdf/2312.12418) | ArKitScenes | 10,412 CAD aligned with 920 scenes across 17 categories scanned from ArKitScene| Point cloud, Multi-view | indoor instance-level scene reconstruction |
 | CVPR 2024 | [DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision](https://openaccess.thecvf.com/content/CVPR2024/html/Ling_DL3DV-10K_A_Large-Scale_Scene_Dataset_for_Deep_Learning-based_3D_Vision_CVPR_2024_paper.html) | Raw | 10K videos, 51M frames,  with POI annotation | Multi-view RGB | novel view synthesis |
 | ICLR 2023 | [SQA3D: Situated Question Answering in 3D Scenes](https://arxiv.org/pdf/2210.07474) | ScanNet (***New Situation Question Answer***)| 6.8K Situation <=> 20.4K description <=> 33.4K Reasoning Answer| 3D scan, egocentric video, bird-eye view <=> situation <=> question |3D Situation Question Answer|
 | ICCV 2023 | [ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes](https://arxiv.org/abs/2308.11417) | Raw | 460 scenes, 280000 DSLR images, 3.7M iPhone RGBD | Point cloud, Mesh, RGBD | novel view synthesis and 3D semantic scene understanding |
@@ -87,6 +87,7 @@ A repository for recent 3D datasets.
 | ArXiv 2212 | [GeoCode: Interpretable Shape Programs](https://arxiv.org/pdf/2212.11715) | - | train: 9,570 chairs, 9,330 vases, and 6,270 tables; validation and test: 957 chairs, 933 vases, and 627 tables | Mesh, Point-Cloud, sketch | 3D geometry edit |
 | NeurlPS 2022 Datasets and Benchmarks | [Breaking Bad: A Dataset for Geometric Fracture and Reassembly](https://breaking-bad-dataset.github.io) | Thingi10K, PartNet | 10,474 shapes, 1,047,400 breakdown patterns | Point cloud | geometry measurements; shape assembly |
 | CVPR 2022 | [Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction](https://arxiv.org/pdf/2205.02834) | Raw Data: poorly-designed 3D physical objects (point videos of 3D objects) with choices to fix them | 5K | Point cloud | fixing 3D object shapes based on functionality |
+| ACCV 2022 | [The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization](https://arxiv.org/pdf/2210.04570)
 
 #### Manipulation
 | time | paper | Sources| Data Scale| Modality | Task |
