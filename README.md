@@ -160,6 +160,8 @@ A repository for recent 3D datasets.
 - (CVPR 2017) **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation** [[Paper]](https://arxiv.org/abs/1612.00593) [[Code]](https://github.com/charlesq34/pointnet)
 - (Proc. SGP 2023) **Cross-Shape Attention for Part Segmentation of 3D Point Clouds** [[Paper]](https://arxiv.org/abs/2003.09053) [[Code]](https://github.com/marios2019/CSN)
 
+### 3D general model
+- (ICLR 2024 Spotlight) **Uni3D: Exploring Unified 3D Representation at Scale** [[Paper]](https://arxiv.org/abs/2310.06773)
 ### Scene
 
 - (2024.9) **GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction** [[Paper]](https://arxiv.org/pdf/2409.06685) [[Project]](https://open3dvlab.github.io/GigaGS/)
