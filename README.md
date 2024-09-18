@@ -69,6 +69,7 @@ A repository for recent 3D datasets.
 
 | time | paper | Sources| Data Scale| Modality | Task |
 |----------|----------|----------|----------|----------|----------|
+| CVPR 2024 | [Multi-Attribute Interactions Matter for 3D Visual Grounding](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Multi-Attribute_Interactions_Matter_for_3D_Visual_Grounding_CVPR_2024_paper.pdf) | ScanRefer, ReferIt3D(Sr3D/Nr3D) | (51K descriptions; 11K objects; 800 ScanNet scenes),(41K human-annotated descriptions/83K simple machine-generated descriptions; 707 scenes with object mask) | RGB-D, language | 3D visual grounding |
 | CVPR 2024 | [LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset](https://arxiv.org/pdf/2312.12418) | ArKitScenes | 10,412 CAD aligned with 920 scenes across 17 categories scanned from ArKitScene| Point cloud, Multi-view | indoor instance-level scene reconstruction |
 | CVPR 2024 | [DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision](https://openaccess.thecvf.com/content/CVPR2024/html/Ling_DL3DV-10K_A_Large-Scale_Scene_Dataset_for_Deep_Learning-based_3D_Vision_CVPR_2024_paper.html) | Raw | 10K videos, 51M frames,  with POI annotation | Multi-view RGB | novel view synthesis |
 | ICLR 2023 | [SQA3D: Situated Question Answering in 3D Scenes](https://arxiv.org/pdf/2210.07474) | ScanNet (***New Situation Question Answer***)| 6.8K Situation <=> 20.4K description <=> 33.4K Reasoning Answer| 3D scan, egocentric video, bird-eye view <=> situation <=> question |3D Situation Question Answer|
