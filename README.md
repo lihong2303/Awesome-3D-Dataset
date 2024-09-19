@@ -97,6 +97,8 @@ A repository for recent 3D datasets.
 |----------|----------|----------|----------|----------|----------|
 | CoRL 2022 | [Leveraging Language for Accelerated Learning of Tool Manipulation](https://arxiv.org/pdf/2206.13074) | - | 36 objects | images | tool utilize |
 
+### Scene
+|  | [3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination](https://arxiv.org/pdf/2406.05132v2)| Raw | 40,087 household scenes paired with 6.2 million densely-grounded scene-language instructions | Point-cloud, text | 3D semantic segmentation  |
 
 
 ### Object and Scene
