@@ -77,6 +77,8 @@ A repository for recent 3D datasets.
 | ICCV 2023 | [ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes](https://arxiv.org/abs/2308.11417) | Raw | 460 scenes, 280000 DSLR images, 3.7M iPhone RGBD | Point cloud, Mesh, RGBD | novel view synthesis and 3D semantic scene understanding |
 | CVPR 2022 | [ScanQA: 3D Question Answering for Spatial Scene Understanding](https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf) | ScanNet (***New Question-Answer Pairs***) | 41 K question-answer pairs (800 indoors scenes) | RGB-D | 3D Question-Answer (spatial understanding) |
 | ECCV 2020 | [ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language](https://arxiv.org/abs/1912.08830) | ScanNet (***New Task***) | 51,583 descriptions <=> 11,046 objects | RGB-D 3D Scens; textual; | Object location with text descriptions |
+| CVPR 2017 | [ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf) | Raw Data | 2.5M in Multi-views in 1513 scene annotations | RGB-D <=> 3D camera pose <=> surface reconstruction <=> semantic segmentation|  3D object classification, semantic voxel labeling, and CAD model retrieval |
+
 
 ## Synthetic
 
