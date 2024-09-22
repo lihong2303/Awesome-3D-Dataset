@@ -138,8 +138,6 @@ A repository for recent 3D datasets.
 
 ## Generative Models or Tools
 
-
-- (CVPR 2024) **Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ling_Align_Your_Gaussians_Text-to-4D_with_Dynamic_3D_Gaussians_and_Composed_CVPR_2024_paper.pdf)
 - (CVPR 2024) **Wonder3D: Single Image to 3D using Cross-Domain Diffusion** [[Paper]](https://arxiv.org/pdf/2310.15008)
 - (NeurlPS 2023) **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization** [[Paper]](https://arxiv.org/pdf/2306.16928)
 - (2022.12) **Point·E: A System for Generating 3D Point Clouds from Complex Prompts** [[Paper]](https://arxiv.org/pdf/2212.08751) 
@@ -164,6 +162,9 @@ A repository for recent 3D datasets.
 
 ### Multi-View 2 3D
 - (ICCV 2023) **NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction** [[Paper]](https://arxiv.org/pdf/2212.05231)
+
+### Text 2 4D 
+- (CVPR 2024) **Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ling_Align_Your_Gaussians_Text-to-4D_with_Dynamic_3D_Gaussians_and_Composed_CVPR_2024_paper.pdf)
 
 ### 3D part segmentation
 - (CVPR 2023) **Self-positioning Point-based Transformer for Point Cloud Understanding** [[Paper]](https://arxiv.org/abs/2303.16450)
