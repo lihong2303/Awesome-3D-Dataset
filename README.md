@@ -142,24 +142,27 @@ A repository for recent 3D datasets.
 
 ## Generative Models or Tools
 
-- (CVPR 2024) **Wonder3D: Single Image to 3D using Cross-Domain Diffusion** [[Paper]](https://arxiv.org/pdf/2310.15008)
-- (NeurlPS 2023) **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization** [[Paper]](https://arxiv.org/pdf/2306.16928)
-- (2022.12) **Point·E: A System for Generating 3D Point Clouds from Complex Prompts** [[Paper]](https://arxiv.org/pdf/2212.08751) 
-- (ICLR 2024) **SyncDreamer: Generating Multiview-consistent Images from a Single-view Image** [[Paper]](https://arxiv.org/abs/2309.03453)
-- (CVPR 2023) **PC^2 Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction** [[Paper]](https://arxiv.org/abs/2302.10668)
-- (2023.4) **Anything-3D: Towards Single-view Anything Reconstruction in the Wild** [[Paper]](https://arxiv.org/pdf/2304.10261v1)
-- (ICCV 2023) **Zero-1-to-3: Zero-shot One Image to 3D Object** [[Paper]](https://arxiv.org/abs/2303.11328)
 ### Object
+
+### Image 2 Multi-view
+- (ICLR 2024) **SyncDreamer: Generating Multiview-consistent Images from a Single-view Image** [[Paper]](https://arxiv.org/abs/2309.03453)
 
 ### Text 2 3D
 - (ECCV 2024) **DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation** [[Paper]](https://arxiv.org/pdf/2409.07454) [[Project]](https://dreammesh.github.io/), coarse-to-fine scheme
+- (2022.12) **Point·E: A System for Generating 3D Point Clouds from Complex Prompts** [[Paper]](https://arxiv.org/pdf/2212.08751) 
 - (2022.10) **CommonSim-1: Generating 3D Worlds** [[Project]](https://www.csm.ai/blog/commonsim-1-generating-3d-worlds), text-to-3D dynamic environment.
 
 ### Single-View 2 3D
+- (CVPR 2024) **Wonder3D: Single Image to 3D using Cross-Domain Diffusion** [[Paper]](https://arxiv.org/pdf/2310.15008)
 - (2024.9) **MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis** [[Paper]](https://arxiv.org/pdf/2409.07129), leveraging the power of MLLM.
 - (CVPR 2024) **Splatter Image: Ultra-Fast Single-View 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.13150)
 - (ACMM 2024) **Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models** [[Paper]](https://arxiv.org/pdf/2409.07452)
 - (RSS 2024 Workshop) **Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks** [[Paper]](https://arxiv.org/pdf/2409.07245)
+- (NeurlPS 2023) **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization** [[Paper]](https://arxiv.org/pdf/2306.16928)
+- (CVPR 2023) **PC^2 Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction** [[Paper]](https://arxiv.org/abs/2302.10668)
+- (2023.4) **Anything-3D: Towards Single-view Anything Reconstruction in the Wild** [[Paper]](https://arxiv.org/pdf/2304.10261v1)
+- (ICCV 2023) **Zero-1-to-3: Zero-shot One Image to 3D Object** [[Paper]](https://arxiv.org/abs/2303.11328)
+
 
 ### PairedImg 2 3D
 - (CVPR 2024) **pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction** [[Paper]](https://arxiv.org/pdf/2312.12337)
