@@ -132,8 +132,6 @@ A repository for recent 3D datasets.
 | ECCV 2022 | [OPD: Single-view 3D Openable Part Detection](https://arxiv.org/pdf/2203.16421) | | | | |
 
 ## Scene Datasets
-
-## Scene Datasets
 | time | paper | size | modality | type | source |
 |----------|----------|----------|----------|----------|----------|
 | 2025 | [TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes](https://arxiv.org/pdf/2403.19589) | 850 scenes | pts, Multi-view RGB | outdoor | nuScenes |
