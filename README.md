@@ -18,6 +18,7 @@ A repository for recent 3D datasets.
 - [Real and Synthetic](#real-and-synethetic)
     - [Object](#object-2)
     - [Scene](#scene-2)
+- [Scene Datasets](#scene-datasets) 
 - [Statistics](#statistics)
 - [Generative models or tools](#generative-models-or-tools)
     - [Object](#object-3)
@@ -129,6 +130,28 @@ A repository for recent 3D datasets.
 | CVPR 2024 | [SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes](https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf) | | | | |
 | 2024.1 | [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/pdf/2401.09340) | ScanNet , ARKitScenes, HM3D, 3RScan, MultiScan,  Structured3D, ProcTHOR | 68K scenes and 2.5M scene-language pairs | Point cloud, scan | 3D QA |
 | ECCV 2022 | [OPD: Single-view 3D Openable Part Detection](https://arxiv.org/pdf/2203.16421) | | | | |
+
+## Scene Datasets
+
+## Scene Datasets
+| time | paper | size | modality | type | source |
+|----------|----------|----------|----------|----------|----------|
+| 2025 | [TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes](https://arxiv.org/pdf/2403.19589) | 850 scenes | pts, Multi-view RGB | outdoor | nuScenes |
+| 2024 | [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/pdf/2401.09340) |  68K indoor scenes | pts | indoor | ScanNet, ARKitScenes, HM3D, 3RScan, MultiScan, RIO |
+| 2024 | [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI](https://arxiv.org/pdf/2312.16170) | 5k ego-centric RGB-D scenes | RGB-D | indoor | 3RScan, ScanNet, Matterport3D |
+| 2024 | [RELLIS-3D Dataset: Data, Benchmarks and Analysis](https://arxiv.org/pdf/2011.12954) | 13,556 LiDAR scans and 6,235 images | RGB, pts | outdoor | - |
+| 2024 | [SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes](https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf) | 710 high-fidelity 3D scenes | RGB-D(reconstructed), pts| indoor | - |
+| 2023 | [Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning](https://arxiv.org/pdf/2309.06597) | 116 scenes? | pts, RGB-D | outdoor | - |
+| 2023 | [ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes](https://arxiv.org/pdf/2308.11417) | 460 scenes | RGB-D, pts | indoor |- |
+| 2023 | [DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision](https://arxiv.org/pdf/2312.16256) |  140+ RGB-D scenes; 10K+ video | Multi-view RGB; video | indoor & outdoor |- |
+| 2021 | [Argoverse 2: Next Generation Datasets for Self-Driving Perception and Forecasting](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/4734ba6f3de83d861c3176a6273cac6d-Paper-round2.pdf) |  20,000 sequences of unlabeled lidar point clouds and map-aligned pose | pts | outdoor | - |
+| 2021 | [ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data](https://openreview.net/pdf?id=tjZjv_qh_CE) | 5,048 RGB-D sequences | RGB-D, pts | indoor |- |
+| 2020 |[Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.pdf) | 1482 scenes | RGB-D | indoor |- |
+| 2020 | [ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language](https://daveredrum.github.io/ScanRefer/davezchen_eccv2020_scanrefer.pdf)| 800 ScanNet scenes | RGB-D | indoor |- |
+| 2020 | [ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf) | 707 scenes with object mask | pts | indoor |- |
+| 2020 | [nuScenes: A multimodal dataset for autonomous driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf) | 1000 scenes | RGB, pts | outdoor | - |
+| 2020 | [Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene](https://arxiv.org/pdf/2008.04968) | 937.1M points | pts | outdoor | - |
+| 2012 | [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](https://www.cs.toronto.edu/~urtasun/publications/geiger_et_al_cvpr12.pdf) | 389 stereo and optical flow image pairs, stereo visual odometry sequences  | pts | outdoor | - |
 
 ## Statistics
 ! Pending
