@@ -1,12 +1,14 @@
 <h1 align="center">
-🔥Awesome-3D-Dataset[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+🔥Awesome-3D-Assets
 </h1>
 
-A repository for recent 3D datasets.
+A repository for recent 3D Assets.
 
 🫨 Working hard on collecting ...
 
 A incomplete collection of 3D tasks can be found [here](./assets/3D_tasks.md).
+
+# 3D Datasets
 
 ## Contents
 - [Real Data](#real-data)
