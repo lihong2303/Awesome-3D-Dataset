@@ -5,6 +5,8 @@ A repository for recent 3D datasets.
 
 🫨 Working hard on collecting ...
 
+A incomplete collection of 3D tasks can be found [here](./assets/3D_tasks.md).
+
 ## Contents
 - [Real Data](#real-data)
     - [Object](#object)
