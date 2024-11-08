@@ -1,4 +1,6 @@
-<h1>Awesome-3D-Dataset</h1>
+<h1 align="center">
+Awesome-3D-Dataset
+</h1>
 
 A repository for recent 3D datasets.
 

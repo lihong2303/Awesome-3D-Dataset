@@ -1,5 +1,7 @@
 
-<h1>3D Tasks</h1>
+<h1 align="center">
+3D Tasks
+</h1>
 
 A current collection of 3D tasks.
 
